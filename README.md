@@ -18,3 +18,5 @@ We will use "turn based" conversation in our pilot. After reducing latency, we w
 
 RESEARCH NOTES:
 https://arxiv.org/abs/2304.00471
+
+TALKING HEAD MODELS: https://github.com/harlanhong/awesome-talking-head-generation
