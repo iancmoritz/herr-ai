@@ -13,3 +13,8 @@ We will use "turn based" conversation in our pilot. After reducing latency, we w
 [END FACILITATED BY [VOCODE](https://github.com/vocodedev/vocode-python)]
 7. A audio to "talking head" model like [Wav2Lip](https://github.com/Rudrabha/Wav2Lip) transforms it into the output video (AUDIO -> VIDEO)
 8. The video is stitched into the current video stream, cycle repeats
+
+
+
+RESEARCH NOTES:
+https://arxiv.org/abs/2304.00471
